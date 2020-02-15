@@ -1,8 +1,3 @@
-# leetcode solutions using python
-This is my leetcode solution folder.
+# leetcode 練習紀錄
 
-Language: python
-
-Last updated: 2017-06-27
-
-The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
+Forked from [csujedihy/lc-all-solutions](https://github.com/csujedihy/lc-all-solutions)
